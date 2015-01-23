@@ -177,8 +177,9 @@ HIGH-LEVEL COMMANDS (PORCELAIN)
        git-pull(1)
            Fetch from and merge with another repository or a local branch.
 
-       git-push(1)
-           Update remote refs along with associated objects.
+       
+git-push(1)
+asdasdasdasd  Update REMOTE refs along with associated objects.
 
        git-rebase(1)
            Forward-port local commits to the updated upstream head.
